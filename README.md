@@ -1,4 +1,4 @@
-## Data Scientist, Bioinformatician and Snakemake enthusiast at EMBL.
+## Data Scientist, Bioinformatician and Snakemake enthusiast
 
 LinkedIn: @chrarnold84
 
@@ -25,4 +25,4 @@ evolutionary optimization of epigenetic stability](http://www.bioinf.uni-leipzig
 As a developer, I am aware of the importance of identifying bugs in code. Therefore, I am also reporting bugs in various bioinformatics tools whenever I identify them. By now, I indirectly contributed to many bioinformatics-focused repositories and programs (such as `samtools`, `Snakemake`, `bedtools`, and various `R` packages).
 
 ### Contact
-If you're interested in my work, my future plan, how I could you with your project, I'd love to chat. See above for how to contact me.
+If you're interested in my work, my future plan, how I could you with your project, I'd love to chat. I am currently working at EMBL in Heidelberg. See above for how to contact me.
