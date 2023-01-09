@@ -17,7 +17,7 @@ One of my all-time favorite projects resulted in a whole webserver that is still
 - [**The 10kTrees Webserver** - Bayesian inference of primate phylogeny](https://10ktrees.nunn-lab.org)
 
 
-During my PhD, I was more heavily invovled in algorithm development and biological/chemical simulations, which resulted in the following software, for example:
+During my PhD, I was more heavily involved in algorithm development and biological/chemical simulations, which resulted in the following software, for example:
 -  [**StoChDyn** - Stochastic modeling of chromatin state dynamics across cell divisions and
 evolutionary optimization of epigenetic stability](http://www.bioinf.uni-leipzig.de/Software/StoChDyn)
 - [**Targeting** - An efficient software package for solving the Maximal Pairing Problem on arbitrary trees](http://www.bioinf.uni-leipzig.de/Software/Targeting)
