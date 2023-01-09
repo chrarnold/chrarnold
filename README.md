@@ -1,9 +1,5 @@
 ## Data Scientist, Bioinformatician and Snakemake enthusiast at EMBL.
 
-Twitter: @chrarnold84
-
-Web: [https://www.embl.org/groups/zaugg](https://www.embl.org/groups/zaugg)
-
 LinkedIn: @chrarnold84
 
 ### My activities and repositories
