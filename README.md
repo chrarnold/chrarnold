@@ -1,4 +1,4 @@
-## Data Scientist, Bioinformatician and Snakemake enthusiast
+## Data Scientist, Bioinformatician, Tool developer and Snakemake enthusiast
 
 LinkedIn: @chrarnold84
 
