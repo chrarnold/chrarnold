@@ -8,7 +8,7 @@ My main repositories from the last years are not here but at a [public instituti
 While some are public, others are currently not accessible publicly, however.
 
 Selected recent highlights include:
-- [**SUMseq processing pipeline**]([https://git.embl.de/grp-zaugg/GRaNIE](https://git.embl.de/grp-zaugg/SUMseq)) (not public yet, currently the corresponding paper is in revision)
+- [**SUMseq processing pipeline**](https://git.embl.de/grp-zaugg/SUMseq) (not public yet, currently the corresponding paper is in revision)
 - [**diffTF**](https://difftf.readthedocs.io) ([from this repository](https://git.embl.de/grp-zaugg/GRaNIE))
 - [**GRaNIE Bioconductor/R package**](https://grp-zaugg.embl-community.io/GRaNIE) ([from this repository](https://git.embl.de/grp-zaugg/diffTF))
 - [**Teaching material for our yearly ATAC-Seq course at EMBL**](https://git.embl.de/grp-zaugg/atac-seq_course_2022)
