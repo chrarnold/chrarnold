@@ -8,12 +8,13 @@ My main repositories from the last years are not here but at a [public instituti
 While some are public, others are currently not accessible publicly, however.
 
 Selected recent highlights include:
+- [**SUMseq processing pipeline**]([https://git.embl.de/grp-zaugg/GRaNIE](https://git.embl.de/grp-zaugg/SUMseq)) (not public yet, currently the corresponding paper is in revision)
 - [**diffTF**](https://difftf.readthedocs.io) ([from this repository](https://git.embl.de/grp-zaugg/GRaNIE))
 - [**GRaNIE Bioconductor/R package**](https://grp-zaugg.embl-community.io/GRaNIE) ([from this repository](https://git.embl.de/grp-zaugg/diffTF))
 - [**Teaching material for our yearly ATAC-Seq course at EMBL**](https://git.embl.de/grp-zaugg/atac-seq_course_2022)
-- **extensive Snakemake pipelines** for different types of NGS data such as bulk RNA-seq, bulk ATAC-seq, ChIP-Seq, ... (not public yet)
+- **Snakemake pipelines** for different types of NGS data such as bulk and single-cell RNA-seq, bulk ATAC-seq, ChIP-Seq, ... (not public yet)
 
-One of my all-time favorite projects resulted in a whole webserver that is still working after almost 10 years after setting it up initially:
+One of my all-time favorite projects resulted in a high-impact publication, including a designated webserver that I programmed (as of January 2024, the SSL certificate is being renewed by the university):
 - [**The 10kTrees Webserver** - Bayesian inference of primate phylogeny](https://10ktrees.nunn-lab.org)
 
 
